@@ -1,0 +1,2 @@
+# QuoteGenerator
+Generates qoute
